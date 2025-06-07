@@ -9,7 +9,7 @@
 3. Run the app:
    `npm run dev`
 
-   WebSite:
+4.WebSite:
    https://universal-text-extractor.vercel.app/
 
 
