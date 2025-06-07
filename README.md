@@ -1,4 +1,4 @@
-# Run and deploy your AI Studio app
+![niversal-text-extractor](https://github.com/user-attachments/assets/dc4ecccc-55c5-4113-a6f9-8116aad8fc2c)# Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
@@ -12,3 +12,8 @@ This contains everything you need to run your app locally.
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+   WebSite:
+   https://universal-text-extractor.vercel.app/
+   ![niversal-text-extractor](https://github.com/user-attachments/assets/dcfa7a07-84a7-4fb0-8e74-2d8f99d2fb9f)
+
