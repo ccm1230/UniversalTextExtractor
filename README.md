@@ -1,4 +1,4 @@
-![niversal-text-extractor](https://github.com/user-attachments/assets/dc4ecccc-55c5-4113-a6f9-8116aad8fc2c)# Run and deploy your AI Studio app
+# Run and deploy your AI Studio app
 
 This contains everything you need to run your app locally.
 
