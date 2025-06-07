@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Universal Text Extractor",
+  "description": "An application to extract text from PDF files and website URLs. PDF extraction is done locally in your browser, and website text extraction uses AI.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
