@@ -15,5 +15,7 @@ This contains everything you need to run your app locally.
 
    WebSite:
    https://universal-text-extractor.vercel.app/
+
+
    ![niversal-text-extractor](https://github.com/user-attachments/assets/dcfa7a07-84a7-4fb0-8e74-2d8f99d2fb9f)
 
